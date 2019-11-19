@@ -45,9 +45,9 @@ aputnam@trinity.edu<br><br><p>
 
 <p> I choose Trinity University because of the stellar academics as well as the basketball program. The coaches recruited me and I came on a visit and absolutely loved it. The people were so nice and welcoming and the coaching staff was amazing. </p>
 <p> I hope to major in business and focus in accounting or finance because I like math. I also hope to minor in sports management because I love sports and hope to work with sports in the future. Here are some links to important information about my chosen interest:
-
+<ul>
 <li> <a href="https://new.trinity.edu/academics/departments/school-business">Trinity University Business School </a></li> 
-<li> <a href="https://new.trinity.edu/academics/majors-minors/sport-management"> Trinity University Sports Management </a></li> 
+<li> <a href="https://new.trinity.edu/academics/majors-minors/sport-management"> Trinity University Sports Management </a></ul> 
 
 <p style="color:red;"><em>Important information: this page was created in html code, demonstrating my knowledge of HTML.</em></p>
 
