@@ -1,0 +1,62 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+<title>Trinity University</title>
+</head>
+<body>
+
+
+<div style="height: 900px;
+	width: 175px;
+	
+	background-color: #dcdcdc;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+	float: left;
+	margin: 0 10px 0 10px;
+	color: #4F4F4F;
+	font-size: 12px">
+
+
+<strong>Contact Information</strong><p>
+Addie Putnam<br>
+Trinity University<br>
+1 Trinity Place <br>
+San Antonio, TX 78212<br>
+aputnam@trinity.edu<br><br><p>
+<hr>
+<strong>Navigation</strong><br><p> 
+<a href="https://sites.google.com/a/trinity.edu/aep-web-portfolio/home">Home</a><br>
+<a href="https://sites.google.com/a/trinity.edu/aep-web-portfolio/graphics">Graphics</a><br>
+<a href="https://sites.google.com/a/trinity.edu/aep-web-portfolio/infographic">Infographic</a><br> 
+<a href="https://sites.google.com/a/trinity.edu/aep-web-portfolio/resume">Résumé</a><p>
+
+</div> 
+
+<h1> Trinity University </h1>
+
+<a href="http:/trinity.edu">Trinity University</a> is located in San Antonio, Texas. It is a small liberal arts school that offers a variety of different majors, minors and extracurricular activities.  </p> 
+
+<div style="float:left; margin:0 10px 10px 10px;"><img src="https://ruthjungman.github.io/website/csi-2.jpg"><br>Photo courtesy of Trinity University</div> </p> <p> Trinity has a beautiful campus that is family easy to learn. The glass buildings of Northrup and CSI glow at night with the light. The view from the top of the tower is beautiful. It provides a sight of downtown San Antonio that is lovely to look at. The big fountain I by the tower is symbolic and the smaller flowing fountain in front of the admissions office is appealing. </p>
+<p>The features about Trinity that I appreciate most are the athletic centers and the dorm rooms. Playing basketball, having a nice weight room and  </p></br>
+
+<p> I choose Trinity University because of the stellar academics as well as the basketball program. The coaches recruited me and I came on a visit and absolutely loved it. The people were so nice and welcoming and the coaching staff was amazing. </p>
+<p> I hope to major in business and focus in accounting or finance because I like math. I also hope to minor in sports management because I love sports and hope to work with sports in the future. Here are some links to important information about my chosen interest:
+
+<li> <a href="https://new.trinity.edu/academics/departments/school-business">Trinity University Business School </a></li> 
+<li> <a href="https://new.trinity.edu/academics/majors-minors/sport-management"> Trinity University Sports Management </a></li> 
+
+<p style="color:red;"><em>Important information: this page was created in html code, demonstrating my knowledge of HTML.</em></p>
+
+</html> 
+
+
+
+
+
+
+
+
+
